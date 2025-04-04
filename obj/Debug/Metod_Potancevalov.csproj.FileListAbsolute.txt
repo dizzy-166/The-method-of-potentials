@@ -1,0 +1,7 @@
+C:\Users\denis\source\repos\Otladka\Metod_Potancevalov\Metod_Potancevalov\bin\Debug\Metod_Potancevalov.exe.config
+C:\Users\denis\source\repos\Otladka\Metod_Potancevalov\Metod_Potancevalov\bin\Debug\Metod_Potancevalov.exe
+C:\Users\denis\source\repos\Otladka\Metod_Potancevalov\Metod_Potancevalov\bin\Debug\Metod_Potancevalov.pdb
+C:\Users\denis\source\repos\Otladka\Metod_Potancevalov\Metod_Potancevalov\obj\Debug\Metod_Potancevalov.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\Otladka\Metod_Potancevalov\Metod_Potancevalov\obj\Debug\Metod_Potancevalov.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Otladka\Metod_Potancevalov\Metod_Potancevalov\obj\Debug\Metod_Potancevalov.exe
+C:\Users\denis\source\repos\Otladka\Metod_Potancevalov\Metod_Potancevalov\obj\Debug\Metod_Potancevalov.pdb
